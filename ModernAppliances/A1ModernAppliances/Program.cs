@@ -8,6 +8,8 @@
         /// <param name="args">Command line arguments</param>
         static void Main(string[] args)
         {
+            
+
             ModernAppliances modernAppliances = new MyModernAppliances();
             ModernAppliances.Options option = ModernAppliances.Options.None;
             

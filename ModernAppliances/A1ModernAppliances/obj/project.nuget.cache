@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "B94Sn5646WE=",
+  "dgSpecHash": "3WWnnAL0zM38W5lj3IzLFu1xDZfQF3qXa4H4Klp+dYS59tCiVDTqZPz8NusBrMGFBXtyL2ll0xBPlWrvHm0RKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\14039\\Desktop\\New folder\\ModernAppliances\\A1ModernAppliances\\ModernAppliances.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\yunju\\Downloads\\ModernAppliances\\A1ModernAppliances\\ModernAppliances.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yunju\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\yunju\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\yunju\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\yunju\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
   "logs": []
 }
