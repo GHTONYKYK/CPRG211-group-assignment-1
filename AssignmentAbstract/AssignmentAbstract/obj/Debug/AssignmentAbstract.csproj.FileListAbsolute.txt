@@ -1,0 +1,7 @@
+C:\Users\yunju\Downloads\AssignmentAbstract\AssignmentAbstract\bin\Debug\AssignmentAbstract.exe.config
+C:\Users\yunju\Downloads\AssignmentAbstract\AssignmentAbstract\bin\Debug\AssignmentAbstract.exe
+C:\Users\yunju\Downloads\AssignmentAbstract\AssignmentAbstract\bin\Debug\AssignmentAbstract.pdb
+C:\Users\yunju\Downloads\AssignmentAbstract\AssignmentAbstract\obj\Debug\AssignmentAbstract.csproj.AssemblyReference.cache
+C:\Users\yunju\Downloads\AssignmentAbstract\AssignmentAbstract\obj\Debug\AssignmentAbstract.csproj.CoreCompileInputs.cache
+C:\Users\yunju\Downloads\AssignmentAbstract\AssignmentAbstract\obj\Debug\AssignmentAbstract.exe
+C:\Users\yunju\Downloads\AssignmentAbstract\AssignmentAbstract\obj\Debug\AssignmentAbstract.pdb
